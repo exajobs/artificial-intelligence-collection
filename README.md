@@ -5,7 +5,7 @@
 
 ![AI](https://github.com/exajobs/artificial-intelligence-collection/blob/main/img/artificial-intelligence.png)
 
-### What is AI? 
+## What is Artificial Intelligence? 
 
 ### Some general definitions
 - “Artificial intelligence is a computerised system that exhibits behaviour that is commonly thought of as requiring intelligence.” (1)
