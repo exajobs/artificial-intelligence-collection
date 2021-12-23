@@ -5,7 +5,18 @@
 
 ![AI](https://github.com/exajobs/artificial-intelligence-collection/blob/main/img/artificial-intelligence.png)
 
+### What is AI? 
 
+### Some general definitions
+- “Artificial intelligence is a computerised system that exhibits behaviour that is commonly thought of as requiring intelligence.” (1)
+
+- “Artificial Intelligence is the science of making machines do things that would require intelligence if done by man.” (2)
+
+The founding father of AI, Alan Turing, defines this discipline as:
+
+- “AI is the science and engineering of making intelligent machines, especially intelligent computer programs.” (3)
+
+![Machine](https://github.com/exajobs/artificial-intelligence-collection/blob/main/img/Machine%20learning%20model.png)
 
 ## Contents
 
