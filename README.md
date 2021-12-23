@@ -3,11 +3,11 @@
 
 > Welcome To The World of AI Collection ®. A collection of awesome software, libraries, Learning Tutorials, documents, books, resources and interesting stuff about Artificial Intelligence. Thanks to our daily readers and contributors. The goal is to build a categorized community-driven collection of very well-known resources. Sharing, suggestions and contributions are always welcome!
 
-![AI](https://github.com/exajobs/artificial-intelligence-collection/blob/main/img/artificial-intelligence.png)
 
 ## What is Artificial Intelligence? 
 
 ### Some general definitions
+
 - “Artificial intelligence is a computerised system that exhibits behaviour that is commonly thought of as requiring intelligence.” (1)
 
 - “Artificial Intelligence is the science of making machines do things that would require intelligence if done by man.” (2)
