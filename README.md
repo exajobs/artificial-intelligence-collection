@@ -4,7 +4,7 @@
 > Welcome To The World of AI Collection ®. A collection of awesome software, libraries, Learning Tutorials, documents, books, resources and interesting stuff about Artificial Intelligence. Thanks to our daily readers and contributors. The goal is to build a categorized community-driven collection of very well-known resources. Sharing, suggestions and contributions are always welcome!
 
 
-## What is Artificial Intelligence? 
+##  `What is Artificial Intelligence? ` 
 
 ### Some general definitions
 
@@ -18,7 +18,7 @@ The founding father of AI, Alan Turing, defines this discipline as:
 
 ![Machine](https://github.com/exajobs/artificial-intelligence-collection/blob/main/img/Machine%20learning%20model.png)
 
-## Contents
+##  `Table of Contents `
 
 1. [Courses](#courses)
 2. [Books](#books)
@@ -36,7 +36,7 @@ The founding father of AI, Alan Turing, defines this discipline as:
 14. [Bookmarks](#bookmarks)
 
 
-## Courses
+##  `Courses `
 * [CS50’s Intro to Artificial Intelligence](https://cs50.harvard.edu/ai/2020) - This course explores the concepts and algorithms at the foundation of modern artificial intelligence
 * [MIT: Intro to Deep Learning](https://introtodeeplearning.com) - A seven day bootcamp designed in MIT to introduce deep learning methods and applications
 * [Deep Blueberry: Deep Learning book](https://mithi.github.io/deep-blueberry) - A free five-weekend plan to self-learners to learn the basics of deep-learning architectures like CNNs, LSTMs, RNNs, VAEs, GANs, DQN, A3C and more
@@ -82,7 +82,7 @@ The founding father of AI, Alan Turing, defines this discipline as:
 * [Amazon Machine Learning Developer Guide](https://docs.aws.amazon.com/machine-learning/latest/dg/machinelearning-dg.pdf) - A book for ML developers which itroduces the ML concepts & strategies with lots of practical usages.
 * [Machine Learning for Humans](https://medium.com/machine-learning-for-humans/why-machine-learning-matters-6164faf1df12) - A series of simple, plain-English explanations accompanied by math, code, and real-world examples.
 
-## Books
+##  `Books `
 
 * [Machine Learning for Mortals (Mere and Otherwise)](https://www.manning.com/books/machine-learning-for-mortals-mere-and-otherwise) - Early access book that provides basics of machine learning and using R programming language.
 * [How Machine Learning Works](https://livebook.manning.com/book/how-machine-learning-works/welcome/v-5) - Mostafa Samir. Early access book that introduces machine learning from both practical and theoretical aspects in a non-threating way. 
@@ -91,7 +91,7 @@ The founding father of AI, Alan Turing, defines this discipline as:
 * [The Hundred-Page Machine Learning Book](http://themlbook.com/) - all you need to know about Machine Learning in a hundred pages, supervised and unsupervised learning, SVM, neural networks, ensemble methods, gradient descent, cluster analysis and dimensionality reduction, autoencoders and transfer learning, feature engineering and hyperparameter tuning.
 * [Trust in Machine Learning](https://www.manning.com/books/trust-in-machine-learning) - a book for experienced data scientists and machine learning engineers on how to make your AI a trustworthy partner. Build machine learning systems that are explainable, robust, transparent, and optimized for fairness.
 
-## Programming
+##  `Programming `
 
 * [Prolog Programming For Artificial Intelligence](http://www.amazon.com/Programming-Artificial-Intelligence-International-Computer/dp/0321417461) - This best-selling guide to Prolog and Artificial Intelligence concentrates on the art of using the basic mechanisms of Prolog to solve interesting AI problems.
 * [AI Algorithms, Data Structures and Idioms in Prolog, Lisp and Java](http://www.amazon.co.uk/Algorithms-Data-Structures-Idioms-Prolog/dp/0136070477) - [PDF here](https://pdfs.semanticscholar.org/f5c3/d7dbe4c47e310569a14d2338d0cb3d70a1bb.pdf)
