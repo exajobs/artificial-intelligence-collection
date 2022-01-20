@@ -107,7 +107,7 @@ The founding father of AI, Alan Turing, defines this discipline as:
 * [Gödel, Escher, Bach: An Eternal Golden Braid](http://www.amazon.com/G%C3%B6del-Escher-Bach-Eternal-Golden/dp/0465026567) - Written by Douglas Hofstadter and taglined "a metaphorical fugue on minds and machines in the spirit of Lewis Carroll", this wonderful journey into the the fundamental concepts of mathematics,symmetry and intelligence won a Pulitzer Price for Non-Fiction in 1979. A major theme throughout is the emergence of meaning from seemingly 'meaningless' elements, like 1's and 0's, arranged in special patterns.
 * [Life 3.0: Being Human in the Age of Artificial Intelligence](https://www.goodreads.com/book/show/34272565-life-3-0) - Max Tegmark, professor of Physics at MIT, discusses how Artificial Intelligence may affect crime, war, justice, jobs, society and our very sense of being human both in the near and far future.
 
-## Free Content
+## `Free Content`
 
 * [Foundations Of Computational Agents](http://artint.info/html/ArtInt.html) - This book is published by Cambridge University Press, 2010
 * [The Quest For Artificial Intelligence](http://ai.stanford.edu/~nilsson/QAI/qai.pdf) - This book traces the history of the subject, from the early dreams of eighteenth-century (and earlier) pioneers to the more successful work of today's AI engineers.
@@ -122,14 +122,14 @@ The founding father of AI, Alan Turing, defines this discipline as:
 * [R2D3](http://www.r2d3.us/) - A website with explanations on topics from Machine Learning to Statistics. All helped with beautiful animated infographics and real life examples. Available in various languages.
 * [Modeling Agents with Probabilistic Programs](https://agentmodels.org/) - This book describes and implements models of rational agents for (PO)MDPs and Reinforcement Learning.
 
-## Code
+## `Code`
 
 * [ExplainX](https://github.com/explainX/explainx)- ExplainX is a fast, light-weight, and scalable explainable AI framework for data scientists to explain any black-box model to business stakeholders.
 * [AIMACode](https://github.com/aimacode) - Source code for "Artificial Intelligence: A Modern Approach" in Common Lisp, Java, Python. More to come.
 * [FANN](http://leenissen.dk/fann/wp/) - Fast Artificial Neural Network Library, native for C
 * [FARGonautica](https://github.com/Alex-Linhares/FARGonautica) - Source code of Douglas Hosftadter's Fluid Concepts and Creative Analogies Ph.D. projects.
 
-## Videos
+## `Videos`
 
 * [A tutorial on Deep Learning](http://videolectures.net/jul09_hinton_deeplearn)
 * [Basics of Computational Reinforcement Learning](http://videolectures.net/rldm2015_littman_computational_reinforcement)
@@ -141,7 +141,7 @@ The founding father of AI, Alan Turing, defines this discipline as:
 * [Grokking Deep Learning in Motion](https://www.manning.com/livevideo/grokking-deep-learning-in-motion)-Grokking Deep Learning in Motion will not just teach you how to use a single library or framework, you’ll actually discover how to build these algorithms completely from scratch!
 * [Reinforcement Learning in Motion](https://www.manning.com/livevideo/reinforcement-learning-in-motion) - This liveVideo breaks down key concepts like how RL systems learn, how to sense and process environmental data, and how to build and train AI agents. 
 
-## Learning
+## `Learning`
 
 * [Deep Learning. Methods And Applications](http://research.microsoft.com/pubs/209355/DeepLearning-NowPublishing-Vol7-SIG-039.pdf) Free book from Microsoft Research
 * [Neural Networks And Deep Learning](http://neuralnetworksanddeeplearning.com) - Neural networks and deep learning currently provide the best solutions to many problems in image recognition, speech recognition, and natural language processing. This book will teach you the core concepts behind neural networks and deep learning
@@ -164,7 +164,7 @@ The founding father of AI, Alan Turing, defines this discipline as:
 * [Awesome Fraud Detection Papers](https://github.com/benedekrozemberczki/awesome-fraud-detection-papers) - Fraud detection papers from machine learning conferences
 * [Awesome Neural Art](https://github.com/crypdick/awesome-neural-art) - Creating art and manipulating images using deep neural networks.
 
-## Organizations
+## `Organizations`
 
 * [IEEE Computational Intelligence Society](http://cis.ieee.org/)
 * [Machine Intelligence Research Institute](https://intelligence.org/research-guide/)
